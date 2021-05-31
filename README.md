@@ -2,7 +2,8 @@
 
 This is the code for the following video. Please visit the link for more information
 
-(https://www.youtube.com/watch?v=CpnzqcWFkhs)
+[![flutter ML image labeling](http://img.youtube.com/vi/CpnzqcWFkhs/0.jpg)](http://www.youtube.com/watch?v=CpnzqcWFkhs "Flutter Machine Learning: Image Labelling
+")
 
 
 ### If this was helpful, please consider treating me to a cup of coffee.
